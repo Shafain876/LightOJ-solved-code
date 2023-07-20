@@ -1,0 +1,1 @@
+# LightOJ-solved-code
